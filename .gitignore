@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Test and tool caches
+.pytest_cache/
+
+# Generated Spark output
+output/processed_logs/
+
+# macOS
+.DS_Store
